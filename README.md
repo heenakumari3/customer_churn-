@@ -13,42 +13,42 @@ This project predicts whether a customer will churn (leave the company) based on
 Dataset used: Telco Customer Churn Dataset
 The dataset contains information about telecom customers including:
 
-# Customer demographics
-# Services subscribed
-# Account information
-# Monthly charges
-# Total charges
-# Contract type
-# Payment method
-# Churn status
+1.Customer demographics
+2.Services subscribed
+3.Account information
+4.Monthly charges
+5.Total charges
+6.Contract type
+7.Payment method
+8.Churn status
 
 ## Target variable:
 
-## Churn
+Churn
 
-# Yes → Customer left the company
-# No → Customer retained
+1.Yes → Customer left the company
+2.No → Customer retained
 
 ## Project Workflow
 1. Data Collection
-2. 
+
 The dataset was obtained from Kaggle and contains telecom customer records.
 
 3. Data Cleaning
 
-# Handled missing values
-# Converted data types
-# Removed unnecessary columns
-# Encoded categorical variables
+1.Handled missing values
+2.Converted data types
+3.Removed unnecessary columns
+4.Encoded categorical variables
 
 3. Exploratory Data Analysis (EDA)
 
 EDA was performed to understand patterns in the data such as:
 
-# Customer distribution
-# Contract type vs churn
-# Monthly charges vs churn
-# Payment methods and churn behavior
+1.Customer distribution
+2.Contract type vs churn
+3.Monthly charges vs churn
+4.Payment methods and churn behavior
 
 4. Feature Engineering
 
@@ -60,25 +60,25 @@ Machine learning models were trained to predict customer churn.
 
 models used:
 
-# Random Forest
+*Random Forest
 
 6. Model Evaluation
 
 Models were evaluated using metrics such as:
 
-# Accuracy
-# Precision
-# Recall
-# Confusion Matrix
+1.Accuracy
+2.Precision
+3.Recall
+4.Confusion Matrix
 
 
-## Technologies Used
+7. Technologies Used
 
-# Python
-# Jupyter Notebook
-# Pandas
-# NumPy
-# Scikit-learn
+1.Python
+2.Jupyter Notebook
+3.Pandas
+4.NumPy
+5.Scikit-learn
 
 
 customer_churn
